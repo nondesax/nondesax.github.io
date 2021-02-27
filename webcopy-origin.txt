@@ -1,0 +1,192 @@
+Uri: http://nondesax.local/
+File Name: E:\Websites\nondesax.local\index-1.htm
+Content Type: text/html
+
+Uri: http://nondesax.local/feed
+File Name: E:\Websites\nondesax.local\feed-1.rss
+Content Type: application/rss+xml
+
+Uri: http://nondesax.local/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2
+File Name: E:\Websites\nondesax.local\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/css/all.min.css?ver=3.0.2
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\css\all.min-1.css
+Content Type: text/css
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/css/components/font-icons.min.css?ver=3.0.2
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\css\components\font-icons.min-1.css
+Content Type: text/css
+
+Uri: http://nondesax.local/wp-json/
+File Name: E:\Websites\nondesax.local\wp-json\index.htm-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/wp/v2/pages/9
+File Name: E:\Websites\nondesax.local\wp-json\wp\v2\pages\9-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/xmlrpc.php?rsd
+File Name: E:\Websites\nondesax.local\xmlrpc.php-1.xml
+Content Type: text/xml
+
+Uri: http://nondesax.local/wp-includes/wlwmanifest.xml
+File Name: E:\Websites\nondesax.local\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2F
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2F&format=xml
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://nondesax.local/dirigent
+File Name: E:\Websites\nondesax.local\dirigent-1.html
+Content Type: text/html
+
+Uri: http://nondesax.local/fotoboek
+File Name: E:\Websites\nondesax.local\fotoboek-1.html
+Content Type: text/html
+
+Uri: http://nondesax.local/geluidsfragmenten
+File Name: E:\Websites\nondesax.local\geluidsfragmenten-1.html
+Content Type: text/html
+
+Uri: http://nondesax.local/video
+File Name: E:\Websites\nondesax.local\video-1.html
+Content Type: text/html
+
+Uri: http://nondesax.local/contact
+File Name: E:\Websites\nondesax.local\contact-1.html
+Content Type: text/html
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/js/main.min.js?ver=3.0.2
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\js\main.min-1.js
+Content Type: application/javascript
+
+Uri: http://nondesax.local/wp-includes/js/wp-embed.min.js?ver=5.6.2
+File Name: E:\Websites\nondesax.local\wp-includes\js\wp-embed.min-1.js
+Content Type: application/javascript
+
+Uri: http://nondesax.local/wp-content/uploads/DSC_0063-2048x1221-1-1536x916-1-1024x611.jpg
+File Name: E:\Websites\nondesax.local\wp-content\uploads\DSC_0063-2048x1221-1-1536x916-1-1024x611-1.jpg
+Content Type: image/jpeg
+
+Uri: http://nondesax.local/wp-content/uploads/DSC_0063-2048x1221-1-1536x916-1-300x179.jpg
+File Name: E:\Websites\nondesax.local\wp-content\uploads\DSC_0063-2048x1221-1-1536x916-1-300x179-1.jpg
+Content Type: image/jpeg
+
+Uri: http://nondesax.local/wp-content/uploads/DSC_0063-2048x1221-1-1536x916-1-768x458.jpg
+File Name: E:\Websites\nondesax.local\wp-content\uploads\DSC_0063-2048x1221-1-1536x916-1-768x458-1.jpg
+Content Type: image/jpeg
+
+Uri: http://nondesax.local/wp-content/uploads/DSC_0063-2048x1221-1-1536x916-1.jpg
+File Name: E:\Websites\nondesax.local\wp-content\uploads\DSC_0063-2048x1221-1-1536x916-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/fonts/generatepress.eot
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\fonts\generatepress-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/fonts/generatepress.woff2
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\fonts\generatepress-1.woff2
+Content Type: font/woff2
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/fonts/generatepress.woff
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\fonts\generatepress-1.woff
+Content Type: font/woff
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/fonts/generatepress.ttf
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\fonts\generatepress-1.ttf
+Content Type: font/ttf
+
+Uri: http://nondesax.local/wp-content/themes/generatepress/assets/fonts/generatepress.svg
+File Name: E:\Websites\nondesax.local\wp-content\themes\generatepress\assets\fonts\generatepress-1.svg
+Content Type: image/svg+xml
+
+Uri: http://nondesax.local/wp-json/wp/v2/pages/13
+File Name: E:\Websites\nondesax.local\wp-json\wp\v2\pages\13-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fdirigent
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fdirigent&format=xml
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://nondesax.local/wp-content/uploads/Dirk-300x300-1.jpg
+File Name: E:\Websites\nondesax.local\wp-content\uploads\Dirk-300x300-1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://nondesax.local/wp-content/uploads/Dirk-300x300-1-150x150.jpg
+File Name: E:\Websites\nondesax.local\wp-content\uploads\Dirk-300x300-1-150x150-1.jpg
+Content Type: image/jpeg
+
+Uri: http://nondesax.local/wp-json/wp/v2/pages/16
+File Name: E:\Websites\nondesax.local\wp-json\wp\v2\pages\16-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Ffotoboek
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Ffotoboek&format=xml
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://nondesax.local/wp-json/wp/v2/pages/18
+File Name: E:\Websites\nondesax.local\wp-json\wp\v2\pages\18-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fgeluidsfragmenten
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fgeluidsfragmenten&format=xml
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://nondesax.local/wp-content/uploads/Caravan.mp3
+File Name: E:\Websites\nondesax.local\wp-content\uploads\Caravan-1.mp3
+Content Type: audio/mpeg
+
+Uri: http://nondesax.local/wp-content/uploads/Georgia.mp3
+File Name: E:\Websites\nondesax.local\wp-content\uploads\Georgia-1.mp3
+Content Type: audio/mpeg
+
+Uri: http://nondesax.local/wp-content/uploads/Littleboylost.mp3
+File Name: E:\Websites\nondesax.local\wp-content\uploads\Littleboylost-1.mp3
+Content Type: audio/mpeg
+
+Uri: http://nondesax.local/wp-content/uploads/Betterlate.mp3
+File Name: E:\Websites\nondesax.local\wp-content\uploads\Betterlate-1.mp3
+Content Type: audio/mpeg
+
+Uri: http://nondesax.local/wp-json/wp/v2/pages/21
+File Name: E:\Websites\nondesax.local\wp-json\wp\v2\pages\21-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fvideo
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fvideo&format=xml
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://nondesax.local/wp-json/wp/v2/pages/24
+File Name: E:\Websites\nondesax.local\wp-json\wp\v2\pages\24-1.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fcontact
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://nondesax.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fnondesax.local%2Fcontact&format=xml
+File Name: E:\Websites\nondesax.local\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
